@@ -1,0 +1,10 @@
+insert into borrowers (name, email, phone_number) values ('Pippo Peers', 'ppeers0@histats.com', '357-390-4676');
+insert into borrowers (name, email, phone_number) values ('Kinsley Bloxam', 'kbloxam1@multiply.com', '745-983-6896');
+insert into borrowers (name, email, phone_number) values ('Trix Roggieri', 'troggieri2@symantec.com', '637-138-5419');
+insert into borrowers (name, email, phone_number) values ('Mirabel Fallawe', 'mfallawe3@japanpost.jp', '749-830-7359');
+insert into borrowers (name, email, phone_number) values ('Tallia Creyke', 'tcreyke4@businessweek.com', '172-417-0415');
+insert into borrowers (name, email, phone_number) values ('Waly Lind', 'wlind5@phoca.cz', '699-782-5680');
+insert into borrowers (name, email, phone_number) values ('Risa Goatcher', 'rgoatcher6@ed.gov', '988-412-3162');
+insert into borrowers (name, email, phone_number) values ('Zabrina Addyman', 'zaddyman7@statcounter.com', '364-215-1839');
+insert into borrowers (name, email, phone_number) values ('Rabbi Adao', 'radao8@edublogs.org', '808-749-5741');
+insert into borrowers (name, email, phone_number) values ('Harmonie Lemery', 'hlemery9@un.org', '796-173-2238');
